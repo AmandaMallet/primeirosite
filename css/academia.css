@@ -1,0 +1,41 @@
+.quadro-24x7 {
+    display: flex;
+    flex-direction: row;
+}
+
+.quadro-24x7 img {
+    padding-bottom: 20px;
+}
+
+.texto-24x7 {
+    margin-right: 200px;
+    list-style-type: none;
+}
+
+.itens-texto-24x7  {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+
+.itens-texto-24x7 a {
+    text-decoration: none;
+}
+
+.itens-texto-24x7 span {
+    color: #255aa8;
+}
+
+.itens-texto-24x7 .icon {
+    margin-right: 20px;
+}
+
+.segunda-parte {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.segunda-parte .maps {
+    margin-right: 60px;
+}

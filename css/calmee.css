@@ -1,0 +1,37 @@
+.container-texto {
+    display: flex;
+    flex-flow: row;
+}
+
+.coluna-50 {
+    width: 50%;
+}
+
+
+.coluna-1 p {
+    font-size: 20px;
+}
+
+.coluna-2 img{
+    padding-left: 100px;
+}
+
+
+.box-galeria img {
+    margin-right: 20px;
+}
+
+
+.slider-nav::after {
+    background-color: #000 !important;
+}
+
+.carrossel {
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+
+.swiffy-slider {
+    width: 50% !important;
+}

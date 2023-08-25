@@ -1,0 +1,29 @@
+.quadro-localizacao {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.texto-localizacao {
+    margin-right: 200px;
+    list-style-type: none;
+}
+
+.itens-texto-localizacao  {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+
+.itens-texto-localizacao a {
+    text-decoration: none;
+}
+
+.itens-texto-localizacao .icon {
+    margin-right: 20px;
+}
+
+.itens-texto-localizacao span {
+    color: #255aa8;
+}

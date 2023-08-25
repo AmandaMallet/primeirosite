@@ -1,0 +1,30 @@
+.quadrado-calculadora {
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.elemento  {
+    width: 130px;
+    height: 100px;
+    background-color: #ebebeb;
+    margin: 10px;
+    box-shadow: 5px 5px 5px rgb(110, 109, 109);
+    padding:10px;
+}
+
+.titulo-pg {
+    margin-left: 6%;
+}
+
+
+.quadrado-conta {
+    box-shadow: 3px 5px 5px 5px rgb(110, 109, 109);
+    width: 300px;
+    height: auto;
+    left: 50%;
+    right: 50%;
+    padding: 10px; 
+}

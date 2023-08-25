@@ -1,0 +1,17 @@
+
+.quadro-sobre-mim {
+    display: flex;
+    flex-direction: row;
+}
+
+.texto-sobre-mim {
+    list-style-type: disc;
+}
+
+.itens-texto-sobre-mim {
+    margin-bottom: 8px;
+}
+
+.itens-texto-sobre-mim span {
+    font-size: 19px;
+}
